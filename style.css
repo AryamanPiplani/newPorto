@@ -1,0 +1,27 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{
+background-color: rgb(15, 132, 235);
+display:flex;
+justify-content:flex-end;
+}
+.heading1{
+background-color: darkgreen;
+display:flex;
+justify-content: flex-start;
+
+}
+.pro1{
+display:flex;
+flex-wrap: wrap;
+justify-content: right;
+}
+.footer{
+display:flex;
+justify-content: flex-end;
+}
